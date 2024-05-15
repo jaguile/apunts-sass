@@ -1,6 +1,7 @@
 # Apunts Sass
 
 [Oficial Sass website](https://sass-lang.com/)
+
 [Sass a Bootstrap](https://getbootstrap.com/docs/5.3/customize/sass/)
 
 Sass és un preprocessador de CSS. Això significa que Sass proporciona funcionalitat de llenguatge de programació a CSS. Els fitxers amb els que treballa Sass són fitxers de tipus *.scss*.
